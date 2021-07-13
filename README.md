@@ -10,7 +10,7 @@
 
 ## 📘 Projeto
 
-Rocket.Q é uma plataforma de interação através de perguntas desenvolvido durante a Next Level Week #6 da Rocketseat na trilha Discover. Dentro da plataforma é possível criar uma sala para usuários anônimos fazerem perguntas, enquanto o criador da sala possue uma senha para que possa gerenciar as perguntas.
+Rocket.Q é uma plataforma de interação através de perguntas desenvolvido durante a Next Level Week #6 da Rocketseat na trilha Discover. Dentro da plataforma é possível criar uma sala para usuários anônimos fazerem perguntas, enquanto o criador da sala possui uma senha para que possa gerenciar as perguntas.
 
 ## 🚀 Tecnologias
 
