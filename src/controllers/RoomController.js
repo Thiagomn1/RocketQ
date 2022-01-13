@@ -57,7 +57,7 @@ module.exports = {
         const roomId = req.body.roomId
         if(roomId.length == 0){
             res.redirect('/')
-        } else{
+        } else {
             const room = await db.all(`SELECT id FROM rooms WHERE id = ${roomId}`)
 
             if(room.length == 0){
