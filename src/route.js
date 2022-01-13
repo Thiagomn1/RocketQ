@@ -11,6 +11,7 @@ route.get('/room/:room', RoomController.open)
 route.post('/create-room', RoomController.create)
 route.post('/question/create/:room', QuestionController.create)
 route.post('/enterroom', RoomController.enter)
+route.get('/noexist', RoomController.enter)
 
 route.post('/question/:room/:question/:action', QuestionController.index)
 

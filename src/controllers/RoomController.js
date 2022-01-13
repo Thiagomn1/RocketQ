@@ -52,10 +52,20 @@ module.exports = {
     },
 
 
-    enter(req, res){
+    async enter(req, res){
+        const db = await Database()
         const roomId = req.body.roomId
+        if(roomId.length == 0){
+            res.redirect('/')
+        } else{
+            const room = await db.all(`SELECT id FROM rooms WHERE id = ${roomId}`)
 
-        res.redirect(`/room/${roomId}`)
+            if(room.length == 0){
+                console.log("Sala não existe")
+                res.redirect('/')
+            } else {
+                res.redirect(`/room/${roomId}`)
+            }
+        }
     }
-
 }
