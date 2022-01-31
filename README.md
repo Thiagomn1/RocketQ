@@ -10,11 +10,11 @@
 
 ## 📘 Projeto
 
-Rocket.Q é uma plataforma de interação através de perguntas desenvolvido durante a Next Level Week #6 da Rocketseat na trilha Discover. Dentro da plataforma é possível criar uma sala para usuários anônimos fazerem perguntas, enquanto o criador da sala possui uma senha para que possa gerenciar as perguntas.
+Rocket.Q is a platform developed during Rocketseat's Next Level Week #6. Within the platform it is possible to create a room for anonymous users to ask questions, while the creator of the room has a password so that they can manage the questions and answer them.
 
 ## 🚀 Tecnologias
 
-Este projeto foi desenvolvido utilizando as seguintes tecnologias:
+This project was developed using the following technologies/tools:
 
 - HTML
 - CSS
@@ -27,9 +27,4 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 <img src=".github/Home.png" alt="Rocket.Q" title="Rocket.Q"  width="100%">
 
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/vp3iFfd1ohCbHyDX9jCiQi/Roquet.q). É necessário ter uma conta no Figma.
-
-## 📝 Licença
-
-
-Esse projeto está sob a Licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
+A figma layout of the project is available by clicking [here](https://www.figma.com/file/vp3iFfd1ohCbHyDX9jCiQi/Roquet.q).
