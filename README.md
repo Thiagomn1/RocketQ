@@ -2,17 +2,16 @@
 <p align="center">
 <img src=".github/Logo.png" alt="Rocket.Q" title="Rocket.Q"  width="200px">
 <br>
-<a href="#-projeto">Projeto</a>&nbsp;|&nbsp;
-<a href="#-tecnologias">Tecnologias</a>&nbsp;|&nbsp;
+<a href="#-projeto">Project</a>&nbsp;|&nbsp;
+<a href="#-tecnologias">Tools</a>&nbsp;|&nbsp;
 <a href="#-layout">Layout</a>&nbsp;|&nbsp;
-<a href="#-licença">Licença</a>
 </p>
 
-## 📘 Projeto
+## 📘 Project
 
 Rocket.Q is a platform developed during Rocketseat's Next Level Week #6. Within the platform it is possible to create a room for anonymous users to ask questions, while the creator of the room has a password so that they can manage the questions and answer them.
 
-## 🚀 Tecnologias
+## 🚀 Tools
 
 This project was developed using the following technologies/tools:
 
